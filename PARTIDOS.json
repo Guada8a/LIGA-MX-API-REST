@@ -1,0 +1,432 @@
+[
+ {
+  "partidos": [
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/lrQOA0IYS629r67YBztmS18pHDs=/0x30/images/team_images/t1174.png",
+    "LocalEquipo": "Necaxa",
+    "LocalGoles": 2,
+    "VisitanteGoles": 3,
+    "VisitanteEquipo": "Atlético San Luis",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/bZ7NobsET5jC3jsTw7merYcC7VA=/0x30/images/team_images/t9491.png",
+    "Estadio": "Estadio Victoria",
+    "Fecha": "2023-01-06 19:00:00",
+    "idPartido": "1",
+    "jornadaId": "1",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/nzXDJshhEXUE8aCwo25lRkH4q0Y=/0x30/images/team_images/t1292.png",
+    "LocalEquipo": "América",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Querétaro",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/WlEglK_l3DfR6ZhTIpmPd9f_2BE=/0x30/images/team_images/t4047.png",
+    "Estadio": "Estadio Azteca",
+    "Fecha": "2023-01-07 17:00:00",
+    "idPartido": "2",
+    "jornadaId": "1",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/KlBTKHkZLZwMQJZnm2dPmZh5SsQ=/0x30/images/team_images/t741.png",
+    "LocalEquipo": "Monterrey",
+    "LocalGoles": 0,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "Guadalajara",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/Hy0I88Gk0joqIxoQRpAcOsjur-w=/0x30/images/team_images/t1283.png",
+    "Estadio": "Estadio BBVA Bancomer",
+    "Fecha": "2023-01-07 21:10:00",
+    "idPartido": "3",
+    "jornadaId": "1",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/i8HKjBUMNPndvrOw5jdc8OOsSCI=/0x30/images/team_images/t1297.png",
+    "LocalEquipo": "Pumas",
+    "LocalGoles": 2,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "FC Juárez",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/AuUwKdLUJpIL7pz_mJ5AJh8_row=/0x30/images/team_images/t10991.png",
+    "Estadio": "Estadio Olímpico Universitario",
+    "Fecha": "2023-01-08 12:00:00",
+    "idPartido": "4",
+    "jornadaId": "1",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/JIDSJXbTv2Yv-AuvGub5w3W2Bz4=/0x30/images/team_images/t1287.png",
+    "LocalEquipo": "Santos Laguna",
+    "LocalGoles": 0,
+    "VisitanteGoles": 3,
+    "VisitanteEquipo": "Tigres UANL",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/dE0t_qwHH-at_hE-05sukjQdr2U=/0x30/images/team_images/t1294.png",
+    "Estadio": "Estadio Corona",
+    "Fecha": "2023-01-08 19:00:00",
+    "idPartido": "5",
+    "jornadaId": "1",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/qMgjAuvUJC3--VWMbt8VgVe-nkc=/0x30/images/team_images/t4690.png",
+    "LocalEquipo": "Xolos",
+    "LocalGoles": 1,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "Cruz Azul",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/OG6GKGvGvqEZaiY35QgorMrDNDw=/0x30/images/team_images/t853.png",
+    "Estadio": "Estadio Caliente",
+    "Fecha": "2023-01-08 21:10:00",
+    "idPartido": "6",
+    "jornadaId": "1",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/qGOznrq6nB9GZ6ClDpraZFfBPCk=/0x30/images/team_images/t1295.png",
+    "LocalEquipo": "Pachuca",
+    "LocalGoles": 5,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "Puebla",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/2kysZ2uk7bLfS37HLYsUUx1IOKk=/0x30/images/team_images/t1296.png",
+    "Estadio": "Estadio Hidalgo",
+    "Fecha": "2023-01-09 21:10:00",
+    "idPartido": "7",
+    "jornadaId": "1",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/5-kDy4axug7WyV6czMethUOuqIU=/0x30/images/team_images/t1284.png",
+    "LocalEquipo": "Atlas",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Toluca",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/LwIKF1LDOJheJyIdnrCkZdqjMcE=/0x30/images/team_images/t1286.png",
+    "Estadio": "Estadio Jalisco",
+    "Fecha": "2023-02-01 20:05:00",
+    "idPartido": "8",
+    "jornadaId": "1",
+    "estado": "POS"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/mBa54LYSYb_j2l4TBYAx4T1E8yk=/0x30/images/team_images/t16906.png",
+    "LocalEquipo": "Mazatlán",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "León",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/eDV_jsvcfm7FLvDbXTTJEonCUoU=/0x30/images/team_images/t1293.png",
+    "Estadio": "Estadio de Mazatlán",
+    "Fecha": "2023-03-24 21:05:00",
+    "idPartido": "9",
+    "jornadaId": "1",
+    "estado": "POS"
+   }
+  ],
+  "id": "1"
+ },
+ {
+  "partidos": [
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/5-kDy4axug7WyV6czMethUOuqIU=/0x30/images/team_images/t1284.png",
+    "LocalEquipo": "Atlas",
+    "LocalGoles": 2,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "Mazatlán",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/mBa54LYSYb_j2l4TBYAx4T1E8yk=/0x30/images/team_images/t16906.png",
+    "Estadio": "Estadio Jalisco",
+    "Fecha": "2023-01-12 21:05:00",
+    "idPartido": "10",
+    "jornadaId": "2",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/bZ7NobsET5jC3jsTw7merYcC7VA=/0x30/images/team_images/t9491.png",
+    "LocalEquipo": "Atlético San Luis",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Guadalajara",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/Hy0I88Gk0joqIxoQRpAcOsjur-w=/0x30/images/team_images/t1283.png",
+    "Estadio": "Estadio Alfonso Lastras",
+    "Fecha": "2023-01-13 19:05:00",
+    "idPartido": "11",
+    "jornadaId": "2",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/2kysZ2uk7bLfS37HLYsUUx1IOKk=/0x30/images/team_images/t1296.png",
+    "LocalEquipo": "Puebla",
+    "LocalGoles": 2,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Querétaro",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/WlEglK_l3DfR6ZhTIpmPd9f_2BE=/0x30/images/team_images/t4047.png",
+    "Estadio": "Estadio Cuauhtémoc",
+    "Fecha": "2023-01-07 21:05:00",
+    "idPartido": "12",
+    "jornadaId": "2",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/OG6GKGvGvqEZaiY35QgorMrDNDw=/0x30/images/team_images/t853.png",
+    "LocalEquipo": "Cruz Azul",
+    "LocalGoles": 2,
+    "VisitanteGoles": 3,
+    "VisitanteEquipo": "Monterrey",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/KlBTKHkZLZwMQJZnm2dPmZh5SsQ=/0x30/images/team_images/t741.png",
+    "Estadio": "Estadio Azteca",
+    "Fecha": "2023-01-14 17:00:00",
+    "idPartido": "13",
+    "jornadaId": "2",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/AuUwKdLUJpIL7pz_mJ5AJh8_row=/0x30/images/team_images/t10991.png",
+    "LocalEquipo": "FC Juárez",
+    "LocalGoles": 3,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Xolos",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/qMgjAuvUJC3--VWMbt8VgVe-nkc=/0x30/images/team_images/t4690.png",
+    "Estadio": "Estadio Olímpico Benito Juárez",
+    "Fecha": "2023-01-14 19:05:00",
+    "idPartido": "14",
+    "jornadaId": "2",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/LwIKF1LDOJheJyIdnrCkZdqjMcE=/0x30/images/team_images/t1286.png",
+    "LocalEquipo": "Toluca",
+    "LocalGoles": 2,
+    "VisitanteGoles": 2,
+    "VisitanteEquipo": "América",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/nzXDJshhEXUE8aCwo25lRkH4q0Y=/0x30/images/team_images/t1292.png",
+    "Estadio": "Estadio Nemesio Díez",
+    "Fecha": "2023-01-14 19:05:00",
+    "idPartido": "15",
+    "jornadaId": "2",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/JIDSJXbTv2Yv-AuvGub5w3W2Bz4=/0x30/images/team_images/t1287.png",
+    "LocalEquipo": "Santos Laguna",
+    "LocalGoles": 3,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Pumas",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/i8HKjBUMNPndvrOw5jdc8OOsSCI=/0x30/images/team_images/t1297.png",
+    "Estadio": "Estadio Corona",
+    "Fecha": "2023-01-14 21:05:00",
+    "idPartido": "16",
+    "jornadaId": "2",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/dE0t_qwHH-at_hE-05sukjQdr2U=/0x30/images/team_images/t1294.png",
+    "LocalEquipo": "Tigres UANL",
+    "LocalGoles": 4,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "Pachuca",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/qGOznrq6nB9GZ6ClDpraZFfBPCk=/0x30/images/team_images/t1295.png",
+    "Estadio": "Estadio Universitario",
+    "Fecha": "2023-01-15 19:05:00",
+    "idPartido": "17",
+    "jornadaId": "2",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/eDV_jsvcfm7FLvDbXTTJEonCUoU=/0x30/images/team_images/t1293.png",
+    "LocalEquipo": "León",
+    "LocalGoles": 2,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "Necaxa",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/lrQOA0IYS629r67YBztmS18pHDs=/0x30/images/team_images/t1174.png",
+    "Estadio": "Estadio León",
+    "Fecha": "2023-01-16 21:05:00",
+    "idPartido": "18",
+    "jornadaId": "2",
+    "estado": "FIN"
+   }
+  ],
+  "id": "2"
+ },
+ {
+  "partidos": [
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/mBa54LYSYb_j2l4TBYAx4T1E8yk=/0x30/images/team_images/t16906.png",
+    "LocalEquipo": "Mazatlán",
+    "LocalGoles": 1,
+    "VisitanteGoles": 2,
+    "VisitanteEquipo": "Santos",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/i8HKjBUMNPndvrOw5jdc8OOsSCI=/0x30/images/team_images/t1297.png",
+    "Estadio": "Estadio de Mazatlán",
+    "Fecha": "2023-01-20 21:00:00",
+    "idPartido": "19",
+    "jornadaId": "3",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/qMgjAuvUJC3--VWMbt8VgVe-nkc=/0x30/images/team_images/t4690.png",
+    "LocalEquipo": "Xolos",
+    "LocalGoles": 1,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "Tigres UANL",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/dE0t_qwHH-at_hE-05sukjQdr2U=/0x30/images/team_images/t1294.png",
+    "Estadio": "Estadio Caliente",
+    "Fecha": "2023-01-20 21:10:00",
+    "idPartido": "20",
+    "jornadaId": "3",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/KlBTKHkZLZwMQJZnm2dPmZh5SsQ=/0x30/images/team_images/t741.png",
+    "LocalEquipo": "Monterrey",
+    "LocalGoles": 3,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "Atlético San Luis",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/bZ7NobsET5jC3jsTw7merYcC7VA=/0x30/images/team_images/t9491.png",
+    "Estadio": "Estadio BBVA Bancomer",
+    "Fecha": "2023-01-21 17:06:00",
+    "idPartido": "21",
+    "jornadaId": "3",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/nzXDJshhEXUE8aCwo25lRkH4q0Y=/0x30/images/team_images/t1292.png",
+    "LocalEquipo": "América",
+    "LocalGoles": 2,
+    "VisitanteGoles": 2,
+    "VisitanteEquipo": "Puebla",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/2kysZ2uk7bLfS37HLYsUUx1IOKk=/0x30/images/team_images/t1296.png",
+    "Estadio": "Estadio Azteca",
+    "Fecha": "2023-01-21 19:10:00",
+    "idPartido": "22",
+    "jornadaId": "3",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/Hy0I88Gk0joqIxoQRpAcOsjur-w=/0x30/images/team_images/t1283.png",
+    "LocalEquipo": "Guadalajara",
+    "LocalGoles": 1,
+    "VisitanteGoles": 2,
+    "VisitanteEquipo": "Toluca",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/LwIKF1LDOJheJyIdnrCkZdqjMcE=/0x30/images/team_images/t1286.png",
+    "Estadio": "Estadio Akron",
+    "Fecha": "2023-01-21 21:10:00",
+    "idPartido": "23",
+    "jornadaId": "3",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/lrQOA0IYS629r67YBztmS18pHDs=/0x30/images/team_images/t1174.png",
+    "LocalEquipo": "Necaxa",
+    "LocalGoles": 1,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Cruz Azul",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/OG6GKGvGvqEZaiY35QgorMrDNDw=/0x30/images/team_images/t853.png",
+    "Estadio": "Estadio Victoria",
+    "Fecha": "2023-01-21 21:10:00",
+    "idPartido": "24",
+    "jornadaId": "3",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/i8HKjBUMNPndvrOw5jdc8OOsSCI=/0x30/images/team_images/t1297.png",
+    "LocalEquipo": "Pumas",
+    "LocalGoles": 4,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "León",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/eDV_jsvcfm7FLvDbXTTJEonCUoU=/0x30/images/team_images/t1293.png",
+    "Estadio": "Estadio Olímpico Universitario",
+    "Fecha": "2023-01-22 12:00:00",
+    "idPartido": "25",
+    "jornadaId": "3",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/WlEglK_l3DfR6ZhTIpmPd9f_2BE=/0x30/images/team_images/t4047.png",
+    "LocalEquipo": "Querétaro",
+    "LocalGoles": 3,
+    "VisitanteGoles": 3,
+    "VisitanteEquipo": "Atlas",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/5-kDy4axug7WyV6czMethUOuqIU=/0x30/images/team_images/t1284.png",
+    "Estadio": "Estadio La Corregidora",
+    "Fecha": "2023-01-22 17:00:00",
+    "idPartido": "26",
+    "jornadaId": "3",
+    "estado": "FIN"
+   },
+   {
+    "LocalEscudo": "https://cess-images.mediotiempo.com/qGOznrq6nB9GZ6ClDpraZFfBPCk=/0x30/images/team_images/t1295.png",
+    "LocalEquipo": "Pachuca",
+    "LocalGoles": 2,
+    "VisitanteGoles": 1,
+    "VisitanteEquipo": "FC Juárez",
+    "VisitanteEscudo": "https://cess-images.mediotiempo.com/AuUwKdLUJpIL7pz_mJ5AJh8_row=/0x30/images/team_images/t10991.png",
+    "Estadio": "Estadio Hidalgo",
+    "Fecha": "2023-01-22 19:10:00",
+    "idPartido": "27",
+    "jornadaId": "3",
+    "estado": "VIVO"
+   }
+  ],
+  "id": "3"
+ },
+ {
+  "partidos": [],
+  "id": "4"
+ },
+ {
+  "partidos": [],
+  "id": "5"
+ },
+ {
+  "partidos": [],
+  "id": "6"
+ },
+ {
+  "partidos": [],
+  "id": "7"
+ },
+ {
+  "partidos": [],
+  "id": "8"
+ },
+ {
+  "partidos": [],
+  "id": "9"
+ },
+ {
+  "partidos": [],
+  "id": "10"
+ },
+ {
+  "partidos": [],
+  "id": "11"
+ },
+ {
+  "partidos": [],
+  "id": "12"
+ },
+ {
+  "partidos": [],
+  "id": "13"
+ },
+ {
+  "partidos": [],
+  "id": "14"
+ },
+ {
+  "partidos": [],
+  "id": "15"
+ },
+ {
+  "partidos": [],
+  "id": "16"
+ },
+ {
+  "partidos": [],
+  "id": "17"
+ },
+ {
+  "partidos": [],
+  "id": "18"
+ },
+ {
+  "partidos": [],
+  "id": "19"
+ }
+]

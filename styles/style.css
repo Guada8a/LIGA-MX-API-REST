@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color:black !important;
+    align-items: center;
+    justify-content: center;
+    margin: 1% 10% 1% 10%;
+}
+.table-dark{
+    color: black !important;
+    font-size: 0.8em;
+
+}
+table{
+    margin: auto;
+    row-gap: 1em;
+}
+table.table-primary{
+    margin-bottom: 2%;
+}
+thead{
+    border-bottom: 1px solid black !important;
+}
+header{
+    background-color: #242424;
+    color: white;
+    padding: 0.2em;
+    text-align: center;
+    font-size: 1.1em;
+    margin-bottom: 1%;
+}
+tr{
+    height: 2em;
+    text-align: center;
+}
+td{
+    font-size: 1.1em;
+    text-align: center;
+}
+.local{
+    text-align: left;
+}
+.visita{
+    text-align: right;
+}
+.gol{
+    font-size: 1.5em;
+}
+.gol-win{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.carousel-control-next-icon,.carousel-control-prev-icon {
+    filter: invert(1) grayscale(100);
+}
