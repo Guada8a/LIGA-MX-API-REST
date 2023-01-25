@@ -12,9 +12,11 @@ body{
     margin: 1% 10% 1% 10%;
 }
 .table-dark{
-    color: black !important;
+    color: #242424 !important;
     font-size: 0.8em;
-
+}
+.table-dark.posiciones{
+    color:white !important;
 }
 table{
     margin: auto;
@@ -57,4 +59,34 @@ td{
 }
 .carousel-control-next-icon,.carousel-control-prev-icon {
     filter: invert(1) grayscale(100);
+}
+#buscarJornada{
+    gap: 0.5em;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: row;
+}
+#buscarJornada>select{
+    width: 10%;
+}
+#partidos{
+    margin-top: 0.6%;
+}
+.nav-item>a{
+    font-weight: 300;
+    color:gray;
+    cursor: pointer;
+}
+.nav-item>.active{
+    font-weight: 600;
+}
+.nav-item>a.active.gold{
+    font-weight: 600;
+    background-color:gold;
+    color:white;
+    text-shadow: 0 0 3em black;
+    box-shadow: 0 0 0.2em black;
+}
+.nav-pills>.nav-item>.nav-link.active{
+    background-color: #242424;
 }

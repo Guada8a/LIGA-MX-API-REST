@@ -213,7 +213,7 @@
     "LocalEquipo": "Mazatlán",
     "LocalGoles": 1,
     "VisitanteGoles": 2,
-    "VisitanteEquipo": "Santos",
+    "VisitanteEquipo": "Santos Laguna",
     "Estadio": "Estadio de Mazatlán",
     "Fecha": "2023-01-20 21:00:00",
     "idPartido": "19",
@@ -312,19 +312,419 @@
   "id": "3"
  },
  {
-  "partidos": [],
+  "partidos": [
+   {
+    "LocalEquipo": "Atlas",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Santos Laguna",
+    "Estadio": "Estadio Jalisco",
+    "Fecha": "2023-01-26 21:00:00",
+    "idPartido": "28",
+    "jornadaId": "4",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Puebla",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Monterrey",
+    "Estadio": "Estadio Cuauhtémoc",
+    "Fecha": "2023-01-27 19:00:00",
+    "idPartido": "29",
+    "jornadaId": "4",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Xolos",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Pumas",
+    "Estadio": "Estadio Caliente",
+    "Fecha": "2023-01-27 21:10:00",
+    "idPartido": "30",
+    "jornadaId": "4",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Tigres UANL",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Atlético San Luis",
+    "Estadio": "Estadio Universitario",
+    "Fecha": "2023-01-28 19:00:00",
+    "idPartido": "31",
+    "jornadaId": "4",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "FC Juárez",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Guadalajara",
+    "Estadio": "Estadio Olímpico Benito Juárez",
+    "Fecha": "2023-01-28 21:10:00",
+    "idPartido": "32",
+    "jornadaId": "4",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "América",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Mazatlán",
+    "Estadio": "Estadio Azteca",
+    "Fecha": "2023-01-28 21:10:00",
+    "idPartido": "33",
+    "jornadaId": "4",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Toluca",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "León",
+    "Estadio": "Estadio Nemesio Díez",
+    "Fecha": "2023-01-29 12:00:00",
+    "idPartido": "34",
+    "jornadaId": "4",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Pachuca",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Necaxa",
+    "Estadio": "Estadio Hidalgo",
+    "Fecha": "2023-01-29 19:00:00",
+    "idPartido": "35",
+    "jornadaId": "4",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Querétaro",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Cruz Azul",
+    "Estadio": "Estadio La Corregidora",
+    "Fecha": "2023-01-30 20:05:00",
+    "idPartido": "36",
+    "jornadaId": "4",
+    "estado": "NEW"
+   }
+  ],
   "id": "4"
  },
  {
-  "partidos": [],
+  "partidos": [
+    {
+    "LocalEquipo": "Atlético San Luis",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Puebla",
+    "Estadio": "Estadio Alfonso Lastras",
+    "Fecha": "2023-02-02 21:00:00",
+    "idPartido": "37",
+    "jornadaId": "5",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Necaxa",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Xolos",
+    "Estadio": "Estadio Victoria",
+    "Fecha": "2023-02-03 19:00:00",
+    "idPartido": "38",
+    "jornadaId": "5",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Mazatlán",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "FC Juárez",
+    "Estadio": "Estadio de Mazatlán",
+    "Fecha": "2023-02-03 21:10:00",
+    "idPartido": "39",
+    "jornadaId": "5",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "León",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Pachuca",
+    "Estadio": "Estadio León",
+    "Fecha": "2023-02-04 17:00:00",
+    "idPartido": "40",
+    "jornadaId": "5",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Cruz Azul",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Tigres UANL",
+    "Estadio": "Estadio Azteca",
+    "Fecha": "2023-02-04 19:10:00",
+    "idPartido": "41",
+    "jornadaId": "5",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Santos Laguna",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "América",
+    "Estadio": "Estadio Corona",
+    "Fecha": "2023-02-04 21:10:00",
+    "idPartido": "42",
+    "jornadaId": "5",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Pumas",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Atlas",
+    "Estadio": "Estadio Olímpico Universitario",
+    "Fecha": "2023-02-05 12:00:00",
+    "idPartido": "43",
+    "jornadaId": "5",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Guadalajara",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Querétaro",
+    "Estadio": "Estadio Akron",
+    "Fecha": "2023-02-05 17:00:00",
+    "idPartido": "44",
+    "jornadaId": "5",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Monterrey",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Toluca",
+    "Estadio": "Estadio BBVA Bancomer",
+    "Fecha": "2023-02-05 19:10:00",
+    "idPartido": "45",
+    "jornadaId": "5",
+    "estado": "NEW"
+   }
+  ],
   "id": "5"
  },
  {
-  "partidos": [],
+  "partidos": [
+    {
+    "LocalEquipo": "Querétaro",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "León",
+    "Estadio": "Estadio La Corregidora",
+    "Fecha": "2023-02-09 19:06:00",
+    "idPartido": "46",
+    "jornadaId": "6",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Atlas",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Monterrey",
+    "Estadio": "Estadio Jalisco",
+    "Fecha": "2023-02-09 21:10:00",
+    "idPartido": "47",
+    "jornadaId": "6",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Puebla",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Mazatlán",
+    "Estadio": "Estadio Cuauhtémoc",
+    "Fecha": "2023-02-10 19:00:00",
+    "idPartido": "48",
+    "jornadaId": "6",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Xolos",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Atlético San Luis",
+    "Estadio": "Estadio Caliente",
+    "Fecha": "2023-02-10 21:10:00",
+    "idPartido": "49",
+    "jornadaId": "6",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "América",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Necaxa",
+    "Estadio": "Estadio Azteca",
+    "Fecha": "2023-02-11 17:00:00",
+    "idPartido": "50",
+    "jornadaId": "6",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "FC Juárez",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Santos Laguna",
+    "Estadio": "Estadio Olímpico Benito Juárez",
+    "Fecha": "2023-02-11 19:10:00",
+    "idPartido": "51",
+    "jornadaId": "6",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Tigres UANL",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Pumas",
+    "Estadio": "Estadio Universitario",
+    "Fecha": "2023-02-11 19:10:00",
+    "idPartido": "52",
+    "jornadaId": "6",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Pachuca",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Guadalajara",
+    "Estadio": "Estadio Hidalgo",
+    "Fecha": "2023-02-11 21:10:00",
+    "idPartido": "53",
+    "jornadaId": "6",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Toluca",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Cruz Azul",
+    "Estadio": "Estadio Nemesio Díez",
+    "Fecha": "2023-02-12 12:00:00",
+    "idPartido": "54",
+    "jornadaId": "6",
+    "estado": "NEW"
+   }
+  ],
   "id": "6"
  },
  {
-  "partidos": [],
+  "partidos": [
+    {
+    "LocalEquipo": "Tigres UANL",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "FC Juárez",
+    "Estadio": "Estadio Universitario",
+    "Fecha": "2023-02-14 19:00:00",
+    "idPartido": "55",
+    "jornadaId": "7",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "León",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Puebla",
+    "Estadio": "Estadio León",
+    "Fecha": "2023-02-14 19:06:00",
+    "idPartido": "56",
+    "jornadaId": "7",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Atlético San Luis",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "América",
+    "Estadio": "Estadio Alfonso Lastras",
+    "Fecha": "2023-02-14 21:10:00",
+    "idPartido": "57",
+    "jornadaId": "7",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Guadalajara",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Xolos",
+    "Estadio": "Estadio Akron",
+    "Fecha": "2023-02-15 19:00:00",
+    "idPartido": "58",
+    "jornadaId": "7",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Monterrey",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Querétaro",
+    "Estadio": "Estadio BBVA Bancomer",
+    "Fecha": "2023-02-15 19:06:00",
+    "idPartido": "59",
+    "jornadaId": "7",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Necaxa",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Pumas",
+    "Estadio": "Estadio Victoria",
+    "Fecha": "2023-02-15 21:10:00",
+    "idPartido": "60",
+    "jornadaId": "7",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Mazatlán",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Pachuca",
+    "Estadio": "Estadio de Mazatlán",
+    "Fecha": "2023-02-16 21:00:00",
+    "idPartido": "61",
+    "jornadaId": "7",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Cruz Azul",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Atlas",
+    "Estadio": "Estadio Azteca",
+    "Fecha": "2023-02-22 20:00:00",
+    "idPartido": "62",
+    "jornadaId": "7",
+    "estado": "NEW"
+   },
+   {
+    "LocalEquipo": "Santos Laguna",
+    "LocalGoles": 0,
+    "VisitanteGoles": 0,
+    "VisitanteEquipo": "Toluca",
+    "Estadio": "Estadio Corona",
+    "Fecha": "2023-02-23 20:00:00",
+    "idPartido": "63",
+    "jornadaId": "7",
+    "estado": "NEW"
+   }
+  ],
   "id": "7"
  },
  {

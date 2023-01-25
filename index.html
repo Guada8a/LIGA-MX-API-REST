@@ -10,8 +10,11 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
         crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <title>Liga BBVA MX</title>
     <script src="./src/api.js"></script>
+    <script src="./src/buscaJornada.js"></script>
+    <script src="./src/menu.js"></script>
 </head>
 <body>
     <header>
@@ -20,17 +23,55 @@
             Liga BBVA MX
         </h3>
     </header>
-    <div id="carouselExampleDark" class="carousel slide">
-        <div class="carousel-inner" id="carouselBody">
+    <div id="row" >
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" id="navPartidos">Partidos</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="navTabla">Tabla General</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link gold" id="navLiguilla">LIGUILLA</a>
+            </li>
+        </ul>
+    </div>
+    <div id="partidos">
+        <div id="row">
+            <div id="buscarJornada" class="form-group">
+                <label for="jornada">Ir a: </label>
+                <select class="form-select form-select-sm" name="jornadas" id="nJornada" title="Jornada"></select>
+                <button id="btnBuscar" class="btn btn-dark btn-sm">Buscar</button>
+            </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-        </button>
+        <div id="carouselExampleDark" class="carousel slide">
+            <div class="carousel-inner" id="carouselBody">
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+    <div id="tabla" style="display: none">
+        <ul class="nav nav-pills nav-fill">
+            <li class="nav-item">
+                <a class="nav-link" id="navApertura" aria-current="page" href="#">Apertura</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" id="navClausura" href="#">Clausura</a>
+            </li>
+        </ul>
+        <div id="posiciones">
+            <div id="apertura"></div>
+            <div id="clausura"></div>
+        </div>
+    </div>
+    <div id="liguilla">
     </div>
 </body>
 </html>

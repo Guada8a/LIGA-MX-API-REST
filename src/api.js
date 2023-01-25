@@ -3,18 +3,17 @@ fetch('https://63ccbcb2ea85515415242892.mockapi.io/jornada/')
     .then(data => mostrarJornada(data))
     .catch(error => console.log(error))
 
-
 const mostrarJornada = (data) => {
+    data.forEach(jornada => {
+        creaTablas(jornada.id);
+        mostrarPartidos(jornada.id, jornada);
+    });
     
-    for (let i = 1; i <= 17; i++){
-        creaTablas(i);
-        mostrarPartidos(data[i-1].id,data[i-1]);
-    }
 }
 
 const creaTablas = (id) => {
     document.getElementById("carouselBody").innerHTML += `
-    <div class="carousel-item ${id == 1 ? 'active' : ''}">
+    <div id="j${id}" class="carousel-item ${id == 1 ? 'active' : ''}">
         <table id="jornada${id}" class="table-primary" width="80%">
             <thead class="table-dark">
                 <tr>
@@ -132,4 +131,71 @@ const logoEquipo = (equipo) => {
             break;
 
     }
+}
+
+fetch('https://63ccbcb2ea85515415242892.mockapi.io/posiciones')
+    .then(response => response.json())
+    .then(data => mostrarPosiciones(data))
+    .catch(error => console.log(error))
+
+const mostrarPosiciones = (data) => {
+    console.log(data);
+    data.forEach(posicion => {
+        creaTablaPosicion(posicion.id);
+        ordenaEquipos(posicion.id,posicion.posiciones[0]);
+    });
+}
+
+const creaTablaPosicion = (id) => {
+    let tabla = "";
+    if (id == "1")
+        tabla = document.getElementById('apertura');
+    else
+        tabla = document.getElementById('clausura');
+    tabla.innerHTML = `
+        <table class="table table-striped table-dark posiciones" id="torneo${id}" style="width:70%">
+            <thead>
+                <tr>
+                    <th scope="col" width="10%">Posición</th>
+                    <th scope="col">Equipo</th>
+                    <th scope="col">PJ</th>
+                    <th scope="col">PG</th>
+                    <th scope="col">PE</th>
+                    <th scope="col">PP</th>
+                    <th scope="col">GF</th>
+                    <th scope="col">GC</th>
+                    <th scope="col">DG</th>
+                    <th scope="col">PTS</th>
+                </tr>
+            </thead>
+            <tbody id="tablaBodyTorneo${id}">
+            </tbody>
+        </table>
+        `;
+}
+
+const ordenaEquipos = (id, equipos) => {
+    let tablaCuerpo = id == "1" ? document.getElementById('tablaBodyTorneo1') : document.getElementById('tablaBodyTorneo2');
+    console.table(equipos);
+    Object.entries(equipos).forEach(([key, value]) => {
+        let equipo = document.createElement('tr');
+        if (key <= 8) equipo.classList.add('clasificados');
+        if (key >8 && key <= 12) equipo.classList.add('repesca');
+
+        equipo.innerHTML = `
+            <td>${key}</td>
+            <td style="text-align:left" width="20%"><img src="${logoEquipo(value[0])}" alt="Logo del equipo" width="30px" height="30px"> ${value[0]}</td>
+            <td>${value[1]}</td>
+            <td>${value[2]}</td>
+            <td>${value[3]}</td>
+            <td>${value[4]}</td>
+            <td>${value[5]}</td>
+            <td>${value[6]}</td>
+            <td>${value[7]}</td>
+            <td>${value[8]}</td>
+            `;
+        tablaCuerpo.appendChild(equipo);
+    }
+    );
+    document.getElementById('apertura').style.display = 'none';
 }
